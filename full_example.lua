@@ -1,5 +1,4 @@
-local VoidHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/vonplayz_real/VoidHub/refs/heads/main/dist/main.lua", true))()
-
+local VoidHub = loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Library/refs/heads/main/dist/main.lua", true))()
 local Window = VoidHub:Window({
     Title = "VoidHub", -- Main title displayed at the top of the window
     Footer = "By vonplayz_real", -- Footer text shown at the bottom
